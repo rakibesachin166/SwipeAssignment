@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Swipe Assignment</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="add_product" translatable="false">Add Product</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="product_name" translatable="false">Product Name  *</string>
+    <string name="product_type" translatable="false">Product Type  *</string>
+    <string name="product_price" translatable="false">Product price  *</string>
+    <string name="product_tax" translatable="false">Product Tax  *</string>
+    <string-array name="array_name">
+        <item>Array Item One</item>
+        <item>Array Item Two</item>
+        <item>Array Item Three</item>
+    </string-array>
+</resources>
